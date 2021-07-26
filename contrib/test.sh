@@ -48,4 +48,5 @@ run-parts ./target/debug/examples
 if [ "$DO_BENCH" = true ]
 then
     cargo bench --features="unstable compiler"
+    
 fi
