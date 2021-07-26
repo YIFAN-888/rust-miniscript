@@ -44,5 +44,5 @@
 - Fixed Miniscript parser bugs when decoding Hashlocks
 - Added scriptContext(`Legacy` and `Segwitv0`) to Miniscript.
 - Miscellaneous fixes against DoS attacks for heavy nesting.
-- Fixed Satisfier bug that caused flipping of arguments for `and_v` and `and_n` and `and_or`
+- Fixed Satisfier bug that caused flipping of arguments for `and_v` and `and_n` and `and_or` 
 
